@@ -1,13 +1,13 @@
-package org.docker.charladocker;
+package org.springbootdocker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CharlaDockerApplication {
+public class SpringBootDockerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CharlaDockerApplication.class, args);
+		SpringApplication.run(SpringBootDockerApplication.class, args);
 	}
 
 }

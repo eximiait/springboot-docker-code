@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'org.docker'
+group = 'org.springbootdocker'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '11'
 

@@ -1,4 +1,4 @@
-package org.docker.charladocker.endpoints;
+package org.springbootdocker.endpoints;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;

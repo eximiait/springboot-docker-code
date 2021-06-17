@@ -1,10 +1,10 @@
-package org.docker.charladocker;
+package org.springbootdocker;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CharlaDockerApplicationTests {
+class SpringBootDockerApplicationTests {
 
 	@Test
 	void contextLoads() {
